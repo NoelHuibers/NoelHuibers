@@ -31,4 +31,4 @@ LaTeX
 
 <img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NoelHuibers&count_private=true&show_icons=true&hide_border=true&theme=cobalt"/>
 
-<img align="left" alt="huibers.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/> <img align="left" alt="NoelHuibers" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<img align="left" alt="huibers.io" width="20px" href="https://huibers.io" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/><img align="left" alt="NoelHuibers" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
