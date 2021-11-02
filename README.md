@@ -1,6 +1,6 @@
 ### Hi, I'm Noel a Software Engineer.
 
-## Im a Student, HiWi, Data Analyst and Developer from heart.
+## Im a Student, Research Assistant, Data Analyst and Developer with heart.
 
 - I'm currently making my Bachelors Degree in Computer Science.
 - I'm a academic assistant at my university.
