@@ -13,7 +13,7 @@
 
 ---
 
-<img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NoelHuibers&show_icons=true&hide_border=true"/>
+<img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NoelHuibers&count_private=true&show_icons=true&hide_border=true&theme=cobalt"/>
 
 [website] https://huibers.io
 [linkedin] https://linkedin.com/in/huibers
