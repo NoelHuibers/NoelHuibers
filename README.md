@@ -11,7 +11,9 @@
 
 ### Tools:
 
-### Find Me:
+---
+
+<img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NoelHuibers&show_icons=true&hide_border=true"/>
 
 [website] https://huibers.io
 [linkedin] https://linkedin.com/in/huibers
