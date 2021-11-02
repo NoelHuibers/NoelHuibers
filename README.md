@@ -33,4 +33,6 @@ LaTeX
 <a href ="https://huibers.io" target="_blank">
     <img align="left" alt="huibers.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
 </a>
-<img align="left" alt="NoelHuibers" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a href ="https://linkedin.com/in/huibers" target="_blank">
+    <img align="left" alt="NoelHuibers" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
