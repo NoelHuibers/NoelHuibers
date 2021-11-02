@@ -29,7 +29,7 @@ LaTeX <br>
 
 ---
 
-<img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NoelHuibers&count_private=true&show_icons=true&hide_border=true&theme=cobalt"/>
+<img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats-noelhuibers.vercel.app/api?username=NoelHuibers&count_private=true&show_icons=true&hide_border=true&theme=cobalt"/>
 
 <a href ="https://huibers.io" target="_blank">
     <img align="left" alt="huibers.io" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>
