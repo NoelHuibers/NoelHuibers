@@ -10,22 +10,22 @@
 
 ### Languages:
 
-Python
-JavaScript
-CSS
-HTML
-Java
-C++
-R
+Python <br>
+JavaScript <br>
+CSS <br>
+HTML <br>
+Java <br>
+C++ <br>
+R <br>
 
 ### Tools:
 
-Visual Studio Code
-IntelliJ
-Android Studio
-Figma
-Adobe XD, Photoshop, InDesign, Illustrator, Premiere Pro
-LaTeX
+Visual Studio Code <br>
+IntelliJ <br>
+Android Studio <br>
+Figma <br>
+Adobe XD, Photoshop, InDesign, Illustrator, Premiere Pro <br>
+LaTeX <br>
 
 ---
 
