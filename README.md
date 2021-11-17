@@ -3,7 +3,7 @@
 ## I'm a Student, Research Assistant, Data Analyst and Developer with heart.
 
 - I'm currently making my Bachelors Degree in Computer Science.
-- I'm a academic assistant at my university.
+- I'm an academic assistant at my university.
 - I'm a certified Google Data Analyst and currently exploring Kaggle.
 - I'm building up my portfolio by developing new projects with Python, JavaScript, CSS and HTML.
 - I'm learning React at the moment.
