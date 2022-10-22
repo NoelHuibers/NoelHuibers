@@ -1,31 +1,38 @@
 ### Hi, I'm Noel a Software Engineer.
 
-## I'm a Student, Research Assistant, Data Analyst and Developer with heart.
+## I'm a Student, Software Engineer, Data Analyst and Developer with heart.
 
 - I'm currently making my Bachelors Degree in Computer Science.
-- I'm an academic assistant at my university.
-- I'm a certified Google Data Analyst and currently exploring Kaggle.
-- I'm building up my portfolio by developing new projects with Python, JavaScript, CSS and HTML.
-- I'm learning React at the moment.
+- I'm writing my Thesis at Lufthansa Technik in the Software Engineering field.
+- I'm a certified Google Data Analyst.
+- I'm sharpen up my portfolio by developing projects with TypeScript, Python & Dart.
+- I'm learning Next.js at the moment and want to learn Rust.
 
 ### Languages:
 
 Python <br>
-JavaScript <br>
-CSS <br>
-HTML <br>
+JavaScript & Typescript <br>
+Python <br>
+Ruby <br>
+Dart & Flutter <br>
+C, C++ & C# <br>
+HTML & CSS <br>
+React, Qt & Angular <br>
+SQL <br>
 Java <br>
-C++ <br>
 R <br>
+XML & QML <br>
 
-### Tools:
+### Miscellaneous:
 
-Visual Studio Code <br>
-IntelliJ <br>
-Android Studio <br>
+Unix & Bash <br>
+Git <br>
+REST & tRPC <br>
+Visual Studio Code & Android Studio <br>
 Figma <br>
-Adobe XD, Photoshop, InDesign, Illustrator, Premiere Pro <br>
 LaTeX <br>
+Microsoft Office <br>
+Adobe Photoshop, InDesign, Illustrator, Premiere Pro <br>
 
 ---
 
