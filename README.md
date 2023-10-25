@@ -2,11 +2,8 @@
 
 ## I'm a Student, Software Engineer, Data Analyst and Developer with heart.
 
-- I'm currently making my Bachelors Degree in Computer Science.
-- I'm writing my Thesis at Lufthansa Technik in the Software Engineering field.
-- I'm a certified Google Data Analyst.
-- I'm sharpen up my portfolio by developing projects with TypeScript, Python & Dart.
-- I'm learning Next.js at the moment and want to learn Rust.
+- I'm currently making my Masters Degree in Computer Science.
+- I'm sharpen up my portfolio by developing projects with TypeScript, Python & Rust.
 
 ### Languages:
 
