@@ -1,35 +1,48 @@
 ### Hi, I'm Noel a Software Engineer.
 
-## I'm a Student, Software Engineer, Data Analyst and Developer with heart.
+## I'm a Student by dawn, Software Engineer by noon, Developer by dusk.
 
-- I'm currently making my Masters Degree in Computer Science.
-- I'm sharpen up my portfolio by developing projects with TypeScript, Python & Rust.
+- Engaged in advancing my academic journey with a Master's Degree in Computer Science.
+- Contributing to technological advancements part-time as a Software Engineer.
+- Honing my craft and expanding my portfolio through projects in TypeScript, Rust, and Python.
 
-### Languages:
+## My Technological Toolkit
 
-Python <br>
-JavaScript & Typescript <br>
-Python <br>
-Ruby <br>
-Dart & Flutter <br>
-C, C++ & C# <br>
-HTML & CSS <br>
-React, Qt & Angular <br>
-SQL <br>
-Java <br>
-R <br>
-XML & QML <br>
+### Programming Languages:
 
-### Miscellaneous:
+- Specialized: TypeScript, Rust, Python
+- Used: JavaScript, Ruby, Dart, Java, Kotlin, R, C, C++, C#
 
-Unix & Bash <br>
-Git <br>
-REST & tRPC <br>
-Visual Studio Code & Android Studio <br>
-Figma <br>
-LaTeX <br>
-Microsoft Office <br>
-Adobe Photoshop, InDesign, Illustrator, Premiere Pro <br>
+### Framework Mastery:
+
+- Web: React, Angular, Leptos (WebAssembly)
+- Cross-Platform: Qt, Flutter, Tauri (for desktop applications)
+- Meta-Frameworks: Next.js, Astro
+
+### API Design Expertise:
+
+- Styles: REST, GraphQL, tRPC
+
+### Database Proficiency:
+
+- Query Languages: SQL, Cypher
+- Systems: Postgres, Neo4j, SQLite, MongoDB, MySQL
+- Cloud-Based: Planetscale, Firebase, Firestore
+
+### Development Tools & Environments:
+
+- Operating Systems & Shell: Unix, Bash
+- Testing: Unittests
+- Version Control: Git
+- Containerization: Docker
+- IDEs: Visual Studio Code, IntelliJ, Android Studio
+
+### Design & Documentation:
+
+- UI/UX Design: Figma
+- Document Preparation: LaTeX
+- Creative Suite: Adobe Photoshop, InDesign, Illustrator, Premiere Pro
+- Office Suite: Microsoft Office, Excel
 
 ---
 
