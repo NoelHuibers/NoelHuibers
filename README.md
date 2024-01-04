@@ -1,10 +1,8 @@
-### Hi, I'm Noel a Software Engineer.
+## Hi, I'm Noel a Software Engineer.
 
-## I'm a Student by dawn, Software Engineer by noon, Developer by dusk.
-
-- Engaged in advancing my academic journey with a Master's Degree in Computer Science.
-- Contributing to technological advancements part-time as a Software Engineer.
-- Honing my craft and expanding my portfolio through projects in TypeScript, Rust, and Python.
+- Pursuing further education with a Master's Degree in Computer Science.
+- Part-time Software Engineer elevating technological solutions.
+- Refining my expertise and broadening my portfolio with projects in TypeScript, Rust, and Python.
 
 ## My Technological Toolkit
 
