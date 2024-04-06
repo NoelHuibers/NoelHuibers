@@ -25,7 +25,7 @@
 
 - Query Languages: SQL, Cypher
 - Systems: Postgres, Neo4j, SQLite, MongoDB, MySQL
-- Cloud-Based: Planetscale, Firebase, Firestore
+- Cloud-Based: AWS S3, Tauri, Planetscale, Firebase, Firestore
 
 ### Development Tools & Environments:
 
