@@ -38,7 +38,7 @@
 ### Design & Documentation:
 
 - UI/UX Design: Figma
-- Document Preparation: LaTeX
+- Document Preparation: LaTeX, Excalidraw
 - Creative Suite: Adobe Photoshop, InDesign, Illustrator, Premiere Pro
 - Office Suite: Microsoft Office, Excel
 
