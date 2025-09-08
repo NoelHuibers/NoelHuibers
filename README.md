@@ -44,7 +44,7 @@
 
 ---
 
-<img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats-noelhuibers.vercel.app/api?username=NoelHuibers&count_private=true&show_icons=true&hide_border=true&theme=cobalt"/>
+<img aling="left" alt="Noel Huibers GitHub Stats" src="https://github-readme-stats-noelhuibers.vercel.app/api?username=NoelHuibers&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=cobalt"/>
 
 <p align="left">
     <a href ="https://huibers.io" target="_blank" rel="noreferrer">
